@@ -1,0 +1,26 @@
+{
+  "name": "astronova-ui",
+  "version": "1.0.0",
+  "description": "A UI component library for Astro builds using TailwindCSS and AlpineJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emp1211/astronova-ui.git"
+  },
+  "keywords": [
+    "Astro",
+    "Components",
+    "UI",
+    "TailwindCSS",
+    "AlpineJS"
+  ],
+  "author": "Erik Paffett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emp1211/astronova-ui/issues"
+  },
+  "homepage": "https://github.com/emp1211/astronova-ui#readme"
+}
